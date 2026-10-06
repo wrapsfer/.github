@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/lockup_dark.svg">
-    <img alt="Wrapsfer" src="assets/lockup.svg" width="293">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wrapsfer/.github/main/profile/assets/lockup_dark.svg">
+    <img alt="Wrapsfer" src="https://raw.githubusercontent.com/wrapsfer/.github/main/profile/assets/lockup.svg" width="293">
   </picture>
 </p>
 
